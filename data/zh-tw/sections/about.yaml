@@ -1,0 +1,47 @@
+# section information
+section:
+  name: 關於
+  id: about
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: 機械材料系博士生
+# your company information
+company:
+  name: 杜克大學 (Duke University)
+  url: "https://pochunhsu.group/members"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: '
+畢業於台大材料系，目前在美國鄉村的博士班，持續鑽研材料光學與熱學在穿戴式裝置上的應用。就讀期間同時獲得電子與資訊工程 (Electrical and Computer Engineering) 的碩士資格。協助撰寫與台、美業界 (Sony, Cambrios) 合作提案，並擔任 project 負責人。
+
+
+在學界、業界以及跨領域的訓練過程當中，我被實用導向的研究深深吸引、喜歡分析科學與科技在商業上帶來的影響，更培養出以不同角度講解科學的能力。相信自己能夠培養出深厚的功底，提供獨立分析並精準解決問題的方案。
+'
+
+
+
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+# - name: Github
+#   icon: "fab fa-github"
+#   url: "https://www.github.com/example"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow

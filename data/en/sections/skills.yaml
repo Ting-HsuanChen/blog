@@ -1,0 +1,34 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Electrochemistry/Electrochromic
+  # logo: "/images/sections/skills/kubernetes.png"
+  summary: "- Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+
+- name: Optical/Thermal Eng. & Modeling
+  # logo: "/images/sections/skills/go.png"
+  summary: "- Capable of designing and modeling materials for optics, display, thermal and wearable applications.
+  
+  - Parameter & constants fitting for FTIR, UV-Vis and ellipsometry data. Experience in Drude-Lorentz model fitting.
+  
+  - Multiphysics simulation by **COMSOL**
+  "
+
+- name: Lab/Fab Skills
+  # logo: "/images/sections/skills/cloud.png"
+  summary: "- Characterization: SEM, TEM (including STEM, EELS, EBSD), FTIR, UV-Vis, ellipsometry, XRD
+
+     - Sputter, evaporation deposition
+
+     - Electrochemical methods
+     "

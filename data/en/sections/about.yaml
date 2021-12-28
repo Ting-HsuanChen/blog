@@ -1,0 +1,44 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: PhD Candidate
+# your company information
+company:
+  name: Duke University
+  url: "https://pochunhsu.group/members"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a Materials Science PhD candidate (with concurrent MS in Electrical and Computer Eng.) at Duke University. On research, I love to explore
+modeling and experimental optics, electrochemistry, personal heat management and their applications on wearable devices. In addition, I am deeply captivated by the impact of science and technology on the market and industry.
+
+
+My experiences and skills have grown from both academic research and industrial collaboration. I led projects and assisted on writing proposal with Sony and Cambrios during my PhD. My goal is to provide research-based advices and analyses from both scientific and business point of view.
+'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ting-hsuanchen/?locale=en_US"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
