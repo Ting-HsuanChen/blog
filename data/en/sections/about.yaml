@@ -15,7 +15,7 @@ company:
   url: "https://pochunhsu.group/members"
 
 # your resume. this file path should be relative to you "static" directory
-# resume: "files/resume.pdf"
+resume: "files/resume_THChen.pdf"
 
 # a summary about you
 summary: 'I am a Materials Science PhD candidate (with concurrent MS in Electrical and Computer Eng.) at Duke University. On research, I love to explore
