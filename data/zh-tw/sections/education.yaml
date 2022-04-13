@@ -1,0 +1,25 @@
+
+# section information
+section:
+  name: 學歷
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  hideTitle: false
+
+degrees:
+- name: 機械材料系博士班
+  icon: fa-microscope
+  timeframe: 2019-
+  institution:
+    name: 美國杜克大學
+    url: "#"
+
+- name: 材料科學與工程學系學士
+  icon: fa-graduation-cap
+  timeframe: 2014-2018
+  institution:
+    name: 國立臺灣大學
