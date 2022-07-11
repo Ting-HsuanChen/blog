@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# # filter buttons
+# buttons:
+# - name: All
+#   filter: "all"
+# - name: Conductive Polymer
+#   filter: "Conductive Polymer"
+# - name: Academic
+#   filter: "academic"
+# - name: Hobby
+#   filter: "hobby"
+
+# your projects
+projects:
+- name: Wearable Variable Emittance Device (WeaVE)
+  # logo: /images/sections/projects/kubernetes.png
+  role: PhD Student
+  timeline: "Sept. 2019 - Mar. 2022"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://drive.google.com/file/d/12ajGsUX4G2RnSv9m_VspYB6qJdakvuOp/view"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: This project is application-driven and sponsored by Sony, centering around wearable devices and thermal management by utilizing electrochromic conductive polymers. The result leads to a journal paper under review.
+  tags: []
+
+- name: Selective Heterojuction Photocatalyst for CO2 Reduction 
+  # logo: /images/sections/projects/tensorflow.png
+  role: Research Assistant
+  timeline: "June 2018 - June 2019"
+  # repo: https://github.com/tensorflow/tensorflow
+  url: "https://docs.google.com/presentation/d/1VmRMBIlH5bAAm2FwgqpdatwFu_NTObyP/edit?usp=sharing&ouid=115105963881081093099&rtpof=true&sd=true"
+  summary: Designed hydrothermal process and performed characterization (XRD, TEM, SEM...) for metal oxide photocatalyst. 
+  tags: []
+
+- name: Laser-welding Induced Massive Ferrite in Low-carbon Steel
+  role: Research Assistant
+  timeline: "Sept. 2017 - June 2018"
+  url: "https://drive.google.com/file/d/1cCHYs5eZU859WCW3t8tiyFXG81cYO2Ph/view?usp=sharing"
+  summary: Studied the crystallograhy information of massive ferrite in laser-welded steel by using metallography skills, EBSD, TEM...
+  tags: []
+
+- name: Highly improved thermoelectric performance of BiCuTeO achieved by decreasing the oxygen content
+  logo: /images/sections/projects/no-code.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2019"
+  # repo: https://github.com/kelseyhightower/nocode
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S2542529320300729"
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  tags: []
+
