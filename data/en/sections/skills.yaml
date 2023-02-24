@@ -13,7 +13,7 @@ section:
 skills:
 - name: Electrochemistry/Electrochromic
   # logo: "/images/sections/skills/kubernetes.png"
-  summary: "- Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "- ."
 
 - name: Optical/Thermal Eng. & Modeling
   # logo: "/images/sections/skills/go.png"
