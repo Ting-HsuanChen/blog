@@ -42,6 +42,9 @@ softSkills:
 - name: Optics & Photonics
   percentage: 90
   color: yellow
+- name: Organic Semiconductor
+  percentage: 90
+  color: blue
 - name: Wearable Device Engineering
   percentage: 90
   color: blue
