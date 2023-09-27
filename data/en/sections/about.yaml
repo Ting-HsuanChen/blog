@@ -36,12 +36,12 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Heat Transfer
+- name: Electrochemistry
   percentage: 90
   color: orange
-- name: Optics & Photonics
+- name: Organic Photonics
   percentage: 90
-  color: yellow
+  color: blue
 - name: Organic Semiconductor
   percentage: 90
   color: blue
